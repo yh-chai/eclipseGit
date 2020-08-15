@@ -1,9 +1,7 @@
 package javastulding;
 
 public class Demo1 {
-//aaaaaaa
-//webGitUpdate1
-	
+
 //webGitUpdate1
 	
 	public static void main(String[] args) {
